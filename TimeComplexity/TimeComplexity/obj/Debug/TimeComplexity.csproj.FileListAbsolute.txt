@@ -1,0 +1,6 @@
+C:\Users\akash\Desktop\PolymorphismProg\TimeComplexity\TimeComplexity\obj\Debug\TimeComplexity.csprojAssemblyReference.cache
+C:\Users\akash\Desktop\PolymorphismProg\TimeComplexity\TimeComplexity\obj\Debug\TimeComplexity.csproj.CoreCompileInputs.cache
+C:\Users\akash\Desktop\PolymorphismProg\TimeComplexity\TimeComplexity\bin\Debug\TimeComplexity.exe
+C:\Users\akash\Desktop\PolymorphismProg\TimeComplexity\TimeComplexity\bin\Debug\TimeComplexity.pdb
+C:\Users\akash\Desktop\PolymorphismProg\TimeComplexity\TimeComplexity\obj\Debug\TimeComplexity.exe
+C:\Users\akash\Desktop\PolymorphismProg\TimeComplexity\TimeComplexity\obj\Debug\TimeComplexity.pdb
